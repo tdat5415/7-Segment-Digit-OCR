@@ -34,7 +34,7 @@ print(ocr_engine(img)) # '267'
 
 ---
 
-### Epoch-Loss Figure
+### Loss Figure
 
 ![epoch_loss](https://user-images.githubusercontent.com/48349693/202092727-e00c3c61-bd46-4aa6-866e-adaa97b72d1b.jpg)
 
